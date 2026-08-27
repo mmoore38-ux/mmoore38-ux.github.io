@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MM smiling brand mark">
+  <rect width="64" height="64" rx="32" fill="#26382d"/>
+  <g fill="none" stroke="#f3efe5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 29V20l7 7 7-7v9"/>
+    <path d="M36 29V20l7 7 7-7v9"/>
+    <path d="M19 38c3.2 5.2 8 7.8 13 7.8S41.8 43.2 45 38"/>
+  </g>
+</svg>
